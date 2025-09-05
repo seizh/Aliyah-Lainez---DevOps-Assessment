@@ -1,11 +1,11 @@
 {
-  "name": "jlabs-devops-assessment",
+  "name": "devops-assessment",
   "version": "1.0.0",
-  "description": "Sample Node.js projects",
-  "main": "inded.js",
+  "description": "Sample Node.js project for DevOps CI/CD assessment",
+  "main": "index.js",
   "scripts": {
-    "test": node test.js"
-},
-"author": "Aliyah Joy Lainez",
-"license": "MIT"
+    "test": "node test.js"
+  },
+  "author": "Aliyah Joy Lainez",
+  "license": "MIT"
 }
