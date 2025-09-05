@@ -1,8 +1,9 @@
-# DevOps Internship Assessment
+#DevOps Internship Assessment
 
 This repository contains my solution for the CI/CD pipeline task.
 
-## CI/CD with GitHub Actions
+
+#CI/CD with GitHub Actions
 - Project: simple Node.js app + one test.
 - Workflow (`.github/workflows/ci.yml`) does:
   1) Checkout
@@ -10,7 +11,7 @@ This repository contains my solution for the CI/CD pipeline task.
   3) Run tests (`npm test`)
   4) Mock deployment (`echo "Deploying..."`)
 
-## Linux & Scripting
+#Linux & Scripting
 See `scripts/disk_alert.sh` for the disk-usage alert script.
 Command `chmod +x script.sh` adds execute permission so it can run as `./script.sh`.
   -chmod changes file permissions.
